@@ -7,21 +7,6 @@ Databricks SQL and further trasnform it for analytics purpose.
 - Access to Databricks SQL Warehouse
 - Unity Catalog enabled (default in Free Edition)
 
-# Folder Structure
-
-├── sql/
-│   ├── 01_bronze.sql
-│   ├── 02_silver.sql
-│   ├── 03_gold.sql
-│   ├── 04_analysis_answers.sql
-│   └── 05_optional.sql
-├── data/
-│   ├── customers.csv
-│   ├── subscriptions.csv
-│   ├── payments.csv
-│   └── payments_incremental.csv
-└── README.md
-
 ## Bronze Layer
 
 ### 1. Upload Data
