@@ -2,9 +2,6 @@
 This project ingests raw CSV files into Delta Lake
 Databricks SQL and further trasnform it for analytics purpose.
 
-The goal is to preserve raw data with minimal transformation while adding
-basic ingestion metadata.
-
 # Prerequisites
 - Databricks workspace (Free Edition is sufficient)
 - Access to Databricks SQL Warehouse
